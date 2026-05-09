@@ -3,5 +3,5 @@ Cambios
 Launcher (v1.0.0):
 - NaN
 
-Juego (v0.4.5f1):
-- Mods eliminados.
+Juego (v0.4.5f2):
+- Juego actualizado.
